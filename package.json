@@ -1,0 +1,25 @@
+{
+  "name": "laravel-mix-export-tailwind-config",
+  "version": "0.1.0",
+  "description": "Export your tailwind.js config file to a JSON file that can be consumed in applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/approvedio/laravel-mix-export-tailwind-config.git"
+  },
+  "keywords": [
+    "laravel",
+    "mix",
+    "tailwind",
+    "laravel mix"
+  ],
+  "author": "Michael Boffey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/approvedio/laravel-mix-export-tailwind-config/issues"
+  },
+  "homepage": "https://github.com/approvedio/laravel-mix-export-tailwind-config#readme"
+}
