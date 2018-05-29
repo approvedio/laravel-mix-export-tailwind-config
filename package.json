@@ -1,6 +1,6 @@
 {
   "name": "laravel-mix-export-tailwind-config",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Export your tailwind.js config file to a JSON file that can be consumed in applications",
   "main": "index.js",
   "scripts": {
