@@ -4,7 +4,7 @@ Mix plugin to export the tailwind.js config file as a JSON file that can be used
 
 ## Usage
 ```bash
-npm install laravel-mix-tailwind-export-config --save-dev
+npm i laravel-mix-export-tailwind-config
 ```
 
 Update webpack.mix.js to require and use plugin
