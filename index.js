@@ -15,7 +15,7 @@ class ExportTailwindConfig {
     webpackPlugins() {
         const WriteWebpackPlugin = require('write-webpack-plugin');
 
-        let config = require(this.configPath);
+        let config = require.main.require(this.configPath);
         let json = JSON.stringify(config, null, 2);
 
         return new WriteWebpackPlugin([
