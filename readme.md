@@ -10,7 +10,7 @@ npm i laravel-mix-export-tailwind-config
 Update webpack.mix.js to require and use plugin
 
 ```js
-require('laravel-mix-tailwind-export-config');
+require('laravel-mix-export-tailwind-config');
 
 mix.exportTailwindConfig();
 ```
